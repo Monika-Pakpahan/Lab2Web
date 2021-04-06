@@ -2,8 +2,11 @@
 Tugas Praktikum 2 Matakuliah Pemrograman Web Tentang CSS Dasar
 
 Nama  : Monika Pakpahan
+
 NIM   : 311910554
+
 Kelas : TI.19.A.3
+
 Matkul: Pemrograman Web
 
 Laporan Hasil Praktikum
