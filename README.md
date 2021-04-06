@@ -1,5 +1,6 @@
 # Lab2Web
 Tugas Praktikum 2 Matakuliah Pemrograman Web Tentang CSS Dasar
+
 Nama  : Monika Pakpahan
 NIM   : 311910554
 Kelas : TI.19.A.3
@@ -32,14 +33,19 @@ Pertanyaan
 ![f](https://user-images.githubusercontent.com/59879254/113687924-0335aa00-96f3-11eb-83ab-2be2cd3dc41a.png)
 
 2. Apa Perbedaan pendeklarasian CSS elemen h1 dengan #intro h1 ? Berikan Penjelasannya!
+
 Jawab : h1 merupakan elemen selector pada CSS. Sedangkan #intro h1 merupakan elemen dari ID Selector.
 
 3. Apabila ada deklarasi CSS secara internal,lalu ditambahkan CSS ekstrenal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya.
+
 Jawab : Jika ada deklarasi CSS secra internal, eksternal dan inline secara bersamaan, maka tampilan pada browser akan lebih mengarah pada CSS eksternal karena CSS internal hanya menampilkan bagian yang kita edit sedangkan eksternal CSS akan menampilkan keseluruhan tampilan web yang telah kita ubah. Dan untuk inline CSS berguna untuk menguji dan melihat perubahan saja. 
+
 contoh eksternal CSS
 ![h](https://user-images.githubusercontent.com/59879254/113692587-e354b500-96f7-11eb-862a-b66b24086e34.png)
+
 Contoh internal CSS
 ![g](https://user-images.githubusercontent.com/59879254/113692701-01221a00-96f8-11eb-9a57-b37344b5b6d4.png)
+
 Contoh inline CSS
 ![i](https://user-images.githubusercontent.com/59879254/113692759-1303bd00-96f8-11eb-8f3b-b1200c9e682d.png)
 
